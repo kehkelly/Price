@@ -22,3 +22,8 @@
     background: var(--cyan);
     padding: 1.5rem;
 }
+
+.direita {
+    background: var(--light-cyan);
+    padding: 1.5rem;
+}
